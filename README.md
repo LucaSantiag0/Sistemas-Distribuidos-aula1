@@ -30,4 +30,4 @@ Substitua UR_KEY por uma chave secreta forte para o JWT.
 - 4. Inicie o Servidor -
 Execute o seguinte comando para iniciar o servidor:
 *node server.js*
-O servidor estará rodando em http://localhost:3000, caso queira alterar a porta, troque no arquivo raiz do server.js e swgger
+O servidor estará rodando em http://localhost:3000, caso queira alterar a porta, troque no arquivo raiz do server.js e swagger
