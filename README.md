@@ -7,9 +7,6 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 
 Node.js (versão 16 ou superior)
 
-Git (opcional, para clonar o repositório)
-
-Um cliente HTTP como Postman ou Insomnia (para testar a API)
 
 *Como Rodar o Projeto*
 Siga os passos abaixo para configurar e rodar o projeto localmente.
