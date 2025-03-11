@@ -1,6 +1,8 @@
 Lucas Oliveira Santiago
 Ra: 2210370
 
+Hercules Gabriel Araujo Câmara - 2310953
+
 
 Sistemas Distribuídos - API de Usuários
 Este projeto é uma API simples para gerenciamento de usuários, desenvolvida em Node.js com SQLite, JWT para autenticação e Swagger para documentação.
