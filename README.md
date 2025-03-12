@@ -26,9 +26,7 @@ O projeto usa SQLite como banco de dados. Um arquivo database.sqlite será criad
 - 3. Configure as Variáveis de Ambiente -
 Crie um arquivo .env na raiz do projeto com o seguinte conteúdo:
 JWT_SECRET=UR_KEY
-
 PORT=3000
-
 Substitua UR_KEY por uma chave secreta forte para o JWT.
 
 - 4. Inicie o Servidor -
